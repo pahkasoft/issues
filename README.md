@@ -1,9 +1,7 @@
 # PahkaSoft Issues
 
-Welcome to the centralized issue tracker for PahkaSoft libraries.
+This repository was originally for reporting bugs and suggesting features for repos that were not yet public.
 
-This repository is **only for reporting bugs, suggesting features, or asking questions** related to any of our libraries.
-
-[Open a new issue](https://github.com/pahkasoft/issues/issues/new)
-
-Thank you for helping us improve!
+Now available:
+- For brace-format issues visit [brace-format](https://github.com/pahkasoft/brace-format).
+- For web-music-score issues visit [web-music-score](https://github.com/pahkasoft/web-music-score).
